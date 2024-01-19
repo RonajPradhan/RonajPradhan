@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 About Me 
-🌱I'm a Full stack developer with a masters degree in Computer Science.
-🔭I am passionate about Web Dev & Machine Learning, I also enjoy learning new things.
+- 🌱I'm a Full stack developer with a masters degree in Computer Science.
+- 🔭I am passionate about Web Dev & Machine Learning, I also enjoy learning new things.
 
 <!--
 **RonajPradhan/RonajPradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
