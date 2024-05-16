@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px>, I am Ronaj Pradhan.
 
 About Me 
 - 🌱I'm a Full stack developer with a masters degree in Computer Science.
