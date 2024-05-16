@@ -1,8 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ronaj Pradhan.
 
-About Me 
-- 🌱I'm a Full stack developer with a masters degree in Computer Science.
-- 🔭I am passionate about Web Dev & Machine Learning, I also enjoy learning new things.
+A software engineer who loves Full-stack web development in JavaScript and Java technologies. I like to get my hands busy building projects and understanding all the moving nut and bolts in the application. Recently, I completed my Masters Program in Computer Science where I got a chance to be involved in research as Graduate Research Assistant, which helped me grasp concepts on Linear Algebra, Distributed Systems and Deep Neural Network models. My Professional experience with the technologies are listed in the toolbox below.
 
 <!--
 **RonajPradhan/RonajPradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
